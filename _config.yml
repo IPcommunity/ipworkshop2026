@@ -2,7 +2,8 @@ title: 8th IP Workshop
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: internationalipworkshop.com
+url: ""
+baseurl: ""  # Empty if you're no longer using a subpath like /ipworkshop2026
 
 aux_links:
   GitHub: https://github.com/IPcommunity
