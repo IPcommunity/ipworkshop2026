@@ -27,7 +27,7 @@ We look forward to welcoming you to Québec in 2026.
 
 ### August 1, 2025
 {: .no_toc }
-The website for the 8th International Workshop on Induced Polarization is now online! 
+The website for the 8th International Workshop on Induced Polarization is now online!
 
 ## Venue and transportation
 The 8th International Workshop on Induced Polarization will be held on 26–28 May 2026 at the Auberge du Lac-à-l’Eau-Claire in St-Alexis-des-Monts, Québec, Canada.
