@@ -1,6 +1,6 @@
 title: 8th IP Workshop
 description: A starter template for a Jeykll site using the Just the Docs theme!
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
 aux_links:
   GitHub: https://github.com/IPcommunity
