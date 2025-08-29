@@ -1,6 +1,8 @@
 title: 8th IP Workshop
 description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+theme: bulma-clean-theme
+
+force_theme: light
 
 aux_links:
   GitHub: https://github.com/IPcommunity
@@ -10,3 +12,7 @@ sass:
   silence_deprecations: ['import'] # https://github.com/just-the-docs/just-the-docs/issues/1607
 
 markdown: kramdown
+
+# Pagination settings
+paginate: 5
+paginate_path: "/blog/page:num"

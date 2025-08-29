@@ -1,40 +1,23 @@
 ---
-title: 2026 Workshop
-layout: default
+layout: page
+title:  8th International Induced Polarization Workshop
+subtitle: St-Alexis-des-Monts, Québec, Canada, 26–28 May 2026
+toc: true
+show_sidebar: true
 ---
 
-# 8th International Induced Polarization Workshop
-{: .no_toc }
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-- TOC
-{:toc}
  
 ## Announcements
-The following announces were shared through the IP community <a href="mailto:ip-community@groupes.renater.fr">mailing list</a>. To register to the mailing list, please follow the [tutorial](https://drive.google.com/file/d/1w7qqsUiQt2BImLPsZbw37jOZKvumgjWT/view){:target="_blank" rel="noopener"}.
+All announcements are shared through the IP community <a href="mailto:ip-community@groupes.renater.fr">mailing list</a> and posted here on this website. 
 
-### June 9, 2025
-{: .no_toc }
-We are pleased to confirm that the 8th International Workshop on Induced Polarization will be held on 26–28 May 2026 at the Auberge du Lac-à-l’Eau-Claire in St-Alexis-des-Monts, Québec, Canada.
-
-This scientific retreat-style meeting will bring together researchers and practitioners from around the world to exchange ideas on the latest advances in induced polarization theory, instrumentation, and applications.
- 
-Please mark these dates in your calendar and share this announcement with anyone in your professional network who might be interested.
-  
-We look forward to welcoming you to Québec in 2026.
-
-### August 1, 2025
-{: .no_toc }
-The website for the 8th International Workshop on Induced Polarization is now online!
+To register to the mailing list, please follow this [tutorial](https://drive.google.com/file/d/1w7qqsUiQt2BImLPsZbw37jOZKvumgjWT/view){:target="_blank" rel="noopener"}.
 
 ## Venue and transportation
 The 8th International Workshop on Induced Polarization will be held on 26–28 May 2026 at the Auberge du Lac-à-l’Eau-Claire in St-Alexis-des-Monts, Québec, Canada.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QDEhNZqMnQjrc2YudYLsgLLUmw-_XQM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-The Auberge is located about 2 hours and 15 minutes by car from both Montreal and Quebec City. There is no public transportation available. Participants will need to rent a car. We will provide tools to faciliate car pooling for those interested. 
+The Auberge is located about 2 hours by car from both Montréal and Québec. There is no public transportation available. Participants will need to rent a car. We will provide tools to faciliate car pooling for those interested. 
 
 The Auberge offers an all-inclusive package that includes both lodging and meals. There are no alternative accommodation or dining options in the vicinity. 
 
@@ -55,13 +38,13 @@ All buildings are within a ~5-minute walk from the main conference center. Parti
 
 ## Code of Conduct
 
-We are committed to fostering a respectful, inclusive, and harassment-free environment for all attendees—regardless of gender, gender identity or expression, sexual orientation, disability, appearance, ethnicity, age, or religion.
+We are committed to fostering a respectful, inclusive, and harassment-free environment for all attendees, regardless of gender, gender identity or expression, sexual orientation, disability, appearance, ethnicity, age, or religion.
 
-Harassment of any kind, whether in person or through email, messaging platforms, or other digital channels, will not be tolerated. Anyone engaging in inappropriate behavior may face consequences, including removal from the event, at the discretion of the organizing committee.
+Harassment of any kind, whether in person or through email, messaging platforms, or other digital channels, will not be tolerated. Anyone engaging in inappropriate behavior may face removal from the event, at the discretion of the organizing committee.
 
 If you witness or experience conduct that makes you feel uncomfortable or unsafe, please speak with a member of the Local Organizing Committee (LOC) right away. LOC members can be identified by their name badges. Anonymous reports may also be submitted via the 8th International IP Workshop complaint form.
 
-All reports will be handled with care and discretion. No information will be shared without your consent. Responses will be tailored to the situation.
+All reports will be handled with care and discretion, and responses will be tailored to the situation. No information will be shared without consent.
 
 ## Frequently asked questions
 
@@ -102,7 +85,7 @@ Add your info and search others on [this roommate list](#).
 
 <details markdown="block">
 <summary>What kind of weather should I expect?</summary>
-Daytime temperatures in May/June are typically 15–17 °C (60–65 °F), dropping to around 5 °C (45 °F) at night.
+Daytime temperatures in late May are typically 15–20 °C (60–68 °F) and drop to 5–10 °C (40–50 °F) at night.
 </details>
 
 ## Local Organizing Committee

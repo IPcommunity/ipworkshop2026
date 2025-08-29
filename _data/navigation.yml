@@ -1,0 +1,5 @@
+- name: Announcements
+  link: /blog/
+
+- name: Previous workshops
+  link: /past/
