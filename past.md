@@ -2,7 +2,6 @@
 title: 8th International Induced Polarization Workshop
 subtitle: Past workshops
 layout: page
-image: '/assets/imgs/ip7-groupfoto.jpg'
 ---
 
 ## Group photo taken at the 7th IP workshop in Lund, Sweden, 2024
