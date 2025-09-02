@@ -34,7 +34,7 @@ Condos and cottages include a full kitchen and living room. Pavilion rooms come 
 
 All buildings are within a ~5-minute walk from the main conference center. Participants may request to share a condo or cottage with others.
 
-[Site map](#) and [trail map](#) are available.
+[Site map](https://lacaleauclaire.com/app/uploads/2023/06/carte-du-site.pdf) and [trail map](https://lacaleauclaire.com/app/uploads/2024/07/sans-titre.png) are available.
 
 ## Code of Conduct
 
@@ -75,12 +75,12 @@ All lodging options are within a 5-minute walk. The distance from the Auberge to
 
 <details markdown="block">
 <summary>Need a ride to or from the Montreal airport?</summary>
-Use [this carpooling form](#) to find or offer a ride. View results [here](#).
+Use [this carpooling form (coming soon)](#) to find or offer a ride. View results [here (coming soon)](#).
 </details>
 
 <details markdown="block">
 <summary>Looking for a roommate or housemate?</summary>
-Add your info and search others on [this roommate list](#).
+Add your info and search others on [this roommate list (coming soon)](#).
 </details>
 
 <details markdown="block">
