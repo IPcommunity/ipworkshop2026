@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workshop announcement
+title: Workshop Announcement
 author: Charles L. Bérubé
 hero_darken: true
 published: true

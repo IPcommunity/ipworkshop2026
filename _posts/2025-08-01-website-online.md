@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Website created
+title: Website Created
 author: Charles L. Bérubé
 hero_darken: true
 published: true

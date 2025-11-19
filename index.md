@@ -1,30 +1,63 @@
 ---
 layout: page
 title:  8th International Induced Polarization Workshop
-subtitle: St-Alexis-des-Monts, Québec, Canada, 26–28 May 2026
+subtitle: St-Alexis-des-Monts, Québec, Canada, 26–28 May, 2026
 toc: true
 show_sidebar: true
 ---
 
  
-## Announcements
-All announcements are shared through the IP community <a href="mailto:ip-community@groupes.renater.fr">mailing list</a> and posted here on this website. 
+## Staying informed
+All announcements are shared through the IP community <a href="mailto:ip-community@groupes.renater.fr">mailing list</a> and posted [here](/blog/) on this website. 
 
 To register to the mailing list, please follow this [tutorial](https://drive.google.com/file/d/1w7qqsUiQt2BImLPsZbw37jOZKvumgjWT/view){:target="_blank" rel="noopener"}.
 
-## Venue and transportation
+---
+
+## Timeline
+
+#### Call for abstracts
+
+- **January 5, 2026** — Call for abstracts opens.
+- **February 28, 2026** — Call for abstracts closes.  
+  After this date, the registration form will remain open, but abstract uploads will be disabled.
+- **March 13, 2026** — Notification of acceptance emails sent to all submitting authors.
+
+#### Conference registration and Abstract submission
+
+- Conference registration and abstract submission use the **same Google Form**.  
+- Until **February 28, 2026**: participants may register and optionally submit an abstract.  
+- After **February 28, 2026**: the Google Form remains open for registration only; the abstract-upload section will be locked.  
+- Registration via the Google Form remains open until **45 days before the conference** (mid-April).
+
+#### Payment
+
+- **March 1, 2026** — Conference payment via Eventbrite opens  
+  We are aiming to keep conference fees at a minimum.
+
+#### Lodging reservations
+
+- Lodging reservations must be made using a **dedicated reservation form provided by the Auberge du Lac-à-l’Eau-Claire**.  
+- This form will be sent to all registered participants on **March 1** and will also be posted on the conference website.  
+- Completed reservation forms must be submitted **no later than 45 days prior to arrival** (mid-April).  
+- Additional nights may be booked on **May 25** or **May 28** if the participant requests it.  
+
+---
+
+## Venue information
+
+#### Location
 The 8th International Workshop on Induced Polarization will be held on 26–28 May 2026 at the Auberge du Lac-à-l’Eau-Claire in St-Alexis-des-Monts, Québec, Canada.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QDEhNZqMnQjrc2YudYLsgLLUmw-_XQM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+#### Transportation
 
 The Auberge is located about 2 hours by car from both Montréal and Québec. There is no public transportation available. Participants will need to rent a car. We will provide tools to faciliate car pooling for those interested. 
 
-The Auberge offers an all-inclusive package that includes both lodging and meals. There are no alternative accommodation or dining options in the vicinity. 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QDEhNZqMnQjrc2YudYLsgLLUmw-_XQM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-## Registration
-Registrations details TBA. 
+The Auberge offers an all-inclusive package that includes both lodging and meals. There are little to no alternative accommodation or dining options in the vicinity. 
 
-## Lodging options
+#### Lodging options
 
 Accommodations include rooms at the inn, pavilions, condos (2 or 5 rooms), and cottages (4 or 5 rooms).
 
@@ -36,7 +69,9 @@ All buildings are within a ~5-minute walk from the main conference center. Parti
 
 [Site map](https://lacaleauclaire.com/app/uploads/2023/06/carte-du-site.pdf) and [trail map](https://lacaleauclaire.com/app/uploads/2024/07/sans-titre.png) are available.
 
-## Code of Conduct
+---
+
+## Code of conduct
 
 We are committed to fostering a respectful, inclusive, and harassment-free environment for all attendees, regardless of gender, gender identity or expression, sexual orientation, disability, appearance, ethnicity, age, or religion.
 
@@ -45,6 +80,8 @@ Harassment of any kind, whether in person or through email, messaging platforms,
 If you witness or experience conduct that makes you feel uncomfortable or unsafe, please speak with a member of the Local Organizing Committee (LOC) right away. LOC members can be identified by their name badges. Anonymous reports may also be submitted via the 8th International IP Workshop complaint form.
 
 All reports will be handled with care and discretion, and responses will be tailored to the situation. No information will be shared without consent.
+
+---
 
 ## Frequently asked questions
 
@@ -88,15 +125,21 @@ Add your info and search others on [this roommate list (coming soon)](#).
 Daytime temperatures in late May are typically 15–20 °C (60–68 °F) and drop to 5–10 °C (40–50 °F) at night.
 </details>
 
-## Local Organizing Committee
+---
+
+## People 
+
+#### Local organizing committee
 - Polytechnique Montréal: Charles Bérubé, Isabelle Poliquin, Jean-Luc Gagnon, Lahiru Nagasingha, Léopold Poussin, Rachel Kenko, Sébastien Gagnon
 - TBA
 
-## Scientific Organizing Committee
+#### Scientific organizing committee
 - TBA
 
-## Sponsors
+#### Sponsors
 - TBA
+
+---
 
 ## Contact
 Please direct any questions to <a href="mailto:ipworkshop2026@gmail.com">ipworkshop2026@gmail.com</a>

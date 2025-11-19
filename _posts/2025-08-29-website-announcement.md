@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Website announcement
+title: Website Announcement
 author: Charles L. Bérubé
 hero_darken: true
 published: true
