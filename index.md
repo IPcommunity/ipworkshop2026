@@ -7,6 +7,22 @@ show_sidebar: true
 ---
 
  
+
+
+{% include notification.html 
+status="is-info"
+message="## Call for abstracts and registration
+
+#### Abstract submission and registration form
+Please register for the conference by submitting <a href='https://forms.gle/494dQw6RiUn1jTmZ9' target='_blank' rel='nofollow noopener noreferrer'>this Google Form</a>.
+
+#### Abstract template
+Please use this [abstract template](assets/docs/IPW2026_abstract_template.docx) and save it as a PDF before submitting it in the registration form.
+
+"  %}
+
+---
+
 ## Staying informed
 All announcements are shared through the IP community <a href="mailto:ip-community@groupes.renater.fr">mailing list</a> and posted [here](/blog/) on this website. 
 
