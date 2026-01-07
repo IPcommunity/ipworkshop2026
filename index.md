@@ -31,7 +31,7 @@ To register to the mailing list, please follow this [tutorial](https://drive.goo
 
 ---
 
-## Timeline
+## Key dates
 
 #### Call for abstracts
 
