@@ -17,6 +17,9 @@ message="## Call for abstracts and registration
 Please register for the conference and submit your abstract by filling <a href='https://forms.gle/494dQw6RiUn1jTmZ9' target='_blank' rel='nofollow noopener noreferrer'>this Google Form</a>.  
 The submission deadline is **February 28, 2026**.
 
+#### Conference format
+Authors may select their preferred presentation format (oral or poster) and indicate if the presenting author is a student when completing the submission form.
+
 #### Abstract template
 Please use this [abstract template](assets/docs/IPW2026_abstract_template.docx) and save it as a PDF before submitting it in the registration form.
 
