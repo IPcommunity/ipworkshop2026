@@ -2,7 +2,7 @@
 layout: page
 title:  8th International Induced Polarization Workshop
 subtitle: St-Alexis-des-Monts, Québec, Canada, 26–28 May, 2026
-toc: true
+toc: false
 show_sidebar: true
 ---
 
@@ -12,6 +12,7 @@ show_sidebar: true
 {% include notification.html 
 status="is-info"
 message="## Call for abstracts and registration
+"  %}
 
 #### Abstract submission and registration form
 Please register for the conference and submit your abstract by filling <a href='https://forms.gle/494dQw6RiUn1jTmZ9' target='_blank' rel='nofollow noopener noreferrer'>this Google Form</a>.  
@@ -23,73 +24,44 @@ Authors may select their preferred presentation format (oral or poster) and indi
 #### Abstract template
 Please use this [abstract template](assets/docs/IPW2026_abstract_template.docx) and save it as a PDF before submitting it in the registration form.
 
-"  %}
+
+---
+{% include notification.html
+status="is-success"
+message="
+## Lodging reservation now open"
+%}
+
+All participants must reserve their lodging directly with the **Auberge du Lac-à-l’Eau-Claire** by submitting the official reservation form by email. 
+
+Individual rooms, shared rooms, and condos with multiple rooms are available. 
+
+Prices are in **Canadian dollar** and include two nights accommodation, two breakfasts, two lunches, three dinners, service fees, and access to the full site.
+
+Participants may optionally add an extra night on **May&nbsp;25** or **May&nbsp;28**.
+
+The reservation form must be received by **April&nbsp;6,&nbsp;2026**. 
+Completed forms must be sent to the email address indicated in the form.
+
+The forms can be downloaded below:
+- [English version](assets/docs/Formulaire réservation quadruple occupancy - École Polychnique de Montréal 2026 En.pdf)
+- [French version](assets/docs/Formulaire réservation occup. quadruple - École Polychnique de Montréal 2026 Fr.pdf)
+
 
 ---
 
-## Staying informed
+{% include notification.html
+status="is-warning"
+message="
+## Staying informed"
+%}
 All announcements are shared through the IP community <a href="mailto:ip-community@groupes.renater.fr">mailing list</a> and posted [here](/blog/) on this website. 
 
 To register to the mailing list, please follow this [tutorial](https://drive.google.com/file/d/1w7qqsUiQt2BImLPsZbw37jOZKvumgjWT/view){:target="_blank" rel="noopener"}.
 
 ---
 
-## Key dates
 
-#### Call for abstracts
-
-- **January 5, 2026** — Call for abstracts opens.
-- **February 28, 2026** — Call for abstracts closes.  
-  After this date, the registration form will remain open, but abstract uploads will be disabled.
-- **March 13, 2026** — Notification of acceptance emails sent to all submitting authors.
-
-#### Conference registration and Abstract submission
-
-- Conference registration and abstract submission use the **same Google Form**.  
-- Until **February 28, 2026**: participants may register and optionally submit an abstract.  
-- After **February 28, 2026**: the Google Form remains open for registration only; the abstract-upload section will be locked.  
-- Registration via the Google Form remains open until **45 days before the conference** (mid-April).
-
-#### Payment
-
-- **March 1, 2026** — Conference payment via Eventbrite opens  
-  We are aiming to keep conference fees at a minimum.
-
-#### Lodging reservations
-
-- Lodging reservations must be made using a **dedicated reservation form provided by the Auberge du Lac-à-l’Eau-Claire**.  
-- This form will be sent to all registered participants on **March 1** and will also be posted on the conference website.  
-- Completed reservation forms must be submitted **no later than 45 days prior to arrival** (mid-April).  
-- Additional nights may be booked on **May 25** or **May 28** if the participant requests it.  
-
----
-
-## Venue information
-
-#### Location
-The 8th International Workshop on Induced Polarization will be held on 26–28 May 2026 at the Auberge du Lac-à-l’Eau-Claire in St-Alexis-des-Monts, Québec, Canada.
-
-#### Transportation
-
-The Auberge is located about 2 hours by car from both Montréal and Québec. There is no public transportation available. Participants will need to rent a car. We will provide tools to faciliate car pooling for those interested. 
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QDEhNZqMnQjrc2YudYLsgLLUmw-_XQM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
-
-The Auberge offers an all-inclusive package that includes both lodging and meals. There are little to no alternative accommodation or dining options in the vicinity. 
-
-#### Lodging options
-
-Accommodations include rooms at the inn, pavilions, condos (2 or 5 rooms), and cottages (4 or 5 rooms).
-
-All rooms feature a private bathroom, individual key access, internet, air conditioning, and nearby parking. Bed configurations vary from single to queen beds, with either one or two beds per room.
-
-Condos and cottages include a full kitchen and living room. Pavilion rooms come with a mini fridge and coffee maker, while pavilion suites offer a kitchenette and lounge area. Rooms at the inn also have a mini fridge and coffee maker.
-
-All buildings are within a ~5-minute walk from the main conference center. Participants may request to share a condo or cottage with others.
-
-[Site map](https://lacaleauclaire.com/app/uploads/2023/06/carte-du-site.pdf) and [trail map](https://lacaleauclaire.com/app/uploads/2024/07/sans-titre.png) are available.
-
----
 
 ## Code of conduct
 
@@ -150,11 +122,14 @@ Daytime temperatures in late May are typically 15–20 °C (60–68 °F) and dro
 ## People 
 
 #### Local organizing committee
-- Polytechnique Montréal: Charles Bérubé, Isabelle Poliquin, Jean-Luc Gagnon, Lahiru Nagasingha, Léopold Poussin, Rachel Kenko, Sébastien Gagnon
-- TBA
+- Isabelle Poliquin, Jean-Luc Gagnon, Lahiru Nagasingha, Clarissa Szabo Som, Léopold Poussin, E. Rachel Kenko, Sébastien Gagnon, Charles L. Bérubé
 
 #### Scientific organizing committee
-- TBA
+- Adrien Dimech, École de Technologie Supérieure, QC Canada
+- Hilary P. Emerson, Pacific Northwest National Laboratory, WA USA
+- Catherine Phaneuf, Abitibi Geophysics, QC Canada
+- Dan R. Glaser, University of New Hampshire, NH USA
+- Charles L. Bérubé, Polytechnique Montréal, QC Canada
 
 #### Sponsors
 - TBA

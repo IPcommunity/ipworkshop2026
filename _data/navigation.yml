@@ -1,5 +1,13 @@
 - name: Announcements
   link: /blog/
 
+- name: Conference venue
+  link: /venue/
+
+
+- name: Key dates
+  link: /timeline/
+
 - name: Previous workshops
   link: /past/
+
