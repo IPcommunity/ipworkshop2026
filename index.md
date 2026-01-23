@@ -47,8 +47,8 @@ The reservation form must be received by **April&nbsp;6,&nbsp;2026**.
 Completed forms must be sent to the email address indicated in the form.
 
 The forms can be downloaded below:
-- [English version](assets/docs/Formulaire réservation quadruple occupancy - École Polychnique de Montréal 2026 En.pdf)
-- [French version](assets/docs/Formulaire réservation occup. quadruple - École Polychnique de Montréal 2026 Fr.pdf)
+- [English version](assets/docs/BookingFormEn.pdf)
+- [French version](assets/docs/BookingFormFr.pdf)
 
 
 ---
@@ -107,6 +107,7 @@ Daytime temperatures in late May are typically 15–20 °C (60–68 °F) and dro
 #### Scientific organizing committee
 - Adrien Dimech, École de Technologie Supérieure, QC Canada
 - Hilary P. Emerson, Pacific Northwest National Laboratory, WA USA
+- Seogi Kang, University of Manitoba, MB Canada
 - Catherine Phaneuf, Abitibi Geophysics, QC Canada
 - Dan R. Glaser, University of New Hampshire, NH USA
 - Charles L. Bérubé, Polytechnique Montréal, QC Canada
