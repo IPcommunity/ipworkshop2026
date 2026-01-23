@@ -9,19 +9,22 @@ show_sidebar: true
  
 
 
+## Staying informed
+
+All announcements are shared through the IP community <a href="mailto:ip-community@groupes.renater.fr">mailing list</a> and posted [here](/blog/). To register to the mailing list, please follow this [tutorial](https://drive.google.com/file/d/1w7qqsUiQt2BImLPsZbw37jOZKvumgjWT/view){:target="_blank" rel="noopener"}.
+
+---
+
 {% include notification.html 
 status="is-info"
 message="## Call for abstracts and registration
 "  %}
 
-#### Abstract submission and registration form
 Please register for the conference and submit your abstract by filling <a href='https://forms.gle/494dQw6RiUn1jTmZ9' target='_blank' rel='nofollow noopener noreferrer'>this Google Form</a>.  
 The submission deadline is **February 28, 2026**.
 
-#### Conference format
 Authors may select their preferred presentation format (oral or poster) and indicate if the presenting author is a student when completing the submission form.
 
-#### Abstract template
 Please use this [abstract template](assets/docs/IPW2026_abstract_template.docx) and save it as a PDF before submitting it in the registration form.
 
 
@@ -50,16 +53,6 @@ The forms can be downloaded below:
 
 ---
 
-{% include notification.html
-status="is-warning"
-message="
-## Staying informed"
-%}
-All announcements are shared through the IP community <a href="mailto:ip-community@groupes.renater.fr">mailing list</a> and posted [here](/blog/) on this website. 
-
-To register to the mailing list, please follow this [tutorial](https://drive.google.com/file/d/1w7qqsUiQt2BImLPsZbw37jOZKvumgjWT/view){:target="_blank" rel="noopener"}.
-
----
 
 
 ## Frequently asked questions
