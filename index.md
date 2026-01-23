@@ -39,7 +39,7 @@ All participants must reserve their lodging directly with the **Auberge du Lac-Ã
 
 Individual rooms, shared rooms, and condos with multiple rooms are available. 
 
-Prices are in **Canadian dollar** and include two nights accommodation, two breakfasts, two lunches, three dinners, service fees, and access to the full site.
+Prices are in **Canadian dollar** and include two nights accommodation, two breakfasts, three lunches, two dinners, service fees, and access to the full site.
 
 Participants may optionally add an extra night on **May&nbsp;25** or **May&nbsp;28, 2026**.
 
