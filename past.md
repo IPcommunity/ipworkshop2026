@@ -1,6 +1,6 @@
 ---
 title: 8th International Induced Polarization Workshop
-subtitle: Past workshops
+subtitle: Previous workshops
 layout: page
 ---
 

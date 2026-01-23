@@ -39,6 +39,5 @@ All buildings are within a ~5-minute walk from the main conference center. Parti
 #### Photos
 
 <img src="/assets/imgs/IMG_3723.jpeg" alt="Lake" width="50%"/><img src="/assets/imgs/IMG_3724.jpeg" alt="Condos" width="50%"/>
-
 <img src="/assets/imgs/IMG_3722.jpeg" alt="Bonfire" width="50%"/><img src="/assets/imgs/IMG_3715.jpeg" alt="Condos" width="50%"/>
 

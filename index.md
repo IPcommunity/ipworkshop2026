@@ -29,7 +29,7 @@ Please use this [abstract template](assets/docs/IPW2026_abstract_template.docx) 
 {% include notification.html
 status="is-success"
 message="
-## Lodging reservation now open"
+## Lodging reservations now open"
 %}
 
 All participants must reserve their lodging directly with the **Auberge du Lac-à-l’Eau-Claire** by submitting the official reservation form by email. 
@@ -38,7 +38,7 @@ Individual rooms, shared rooms, and condos with multiple rooms are available.
 
 Prices are in **Canadian dollar** and include two nights accommodation, two breakfasts, two lunches, three dinners, service fees, and access to the full site.
 
-Participants may optionally add an extra night on **May&nbsp;25** or **May&nbsp;28**.
+Participants may optionally add an extra night on **May&nbsp;25** or **May&nbsp;28, 2026**.
 
 The reservation form must be received by **April&nbsp;6,&nbsp;2026**. 
 Completed forms must be sent to the email address indicated in the form.
@@ -61,19 +61,6 @@ To register to the mailing list, please follow this [tutorial](https://drive.goo
 
 ---
 
-
-
-## Code of conduct
-
-We are committed to fostering a respectful, inclusive, and harassment-free environment for all attendees, regardless of gender, gender identity or expression, sexual orientation, disability, appearance, ethnicity, age, or religion.
-
-Harassment of any kind, whether in person or through email, messaging platforms, or other digital channels, will not be tolerated. Anyone engaging in inappropriate behavior may face removal from the event, at the discretion of the organizing committee.
-
-If you witness or experience conduct that makes you feel uncomfortable or unsafe, please speak with a member of the Local Organizing Committee (LOC) right away. LOC members can be identified by their name badges. Anonymous reports may also be submitted via the 8th International IP Workshop complaint form.
-
-All reports will be handled with care and discretion, and responses will be tailored to the situation. No information will be shared without consent.
-
----
 
 ## Frequently asked questions
 

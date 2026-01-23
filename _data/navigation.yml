@@ -4,9 +4,11 @@
 - name: Conference venue
   link: /venue/
 
-
 - name: Key dates
   link: /timeline/
+
+- name: Code of conduct
+  link: /code/
 
 - name: Previous workshops
   link: /past/
