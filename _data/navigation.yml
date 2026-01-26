@@ -1,7 +1,7 @@
 - name: Announcements
   link: /blog/
 
-- name: Venue
+- name: Workshop venue
   link: /venue/
 
 - name: Key dates
@@ -9,13 +9,12 @@
 
 - name: People
   link: /people/
-  
-- name: FAQ
-  link: /faq/
 
 - name: Code of conduct
   link: /code/
 
+- name: FAQ
+  link: /faq/
+
 - name: Previous workshops
   link: /past/
-

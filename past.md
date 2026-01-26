@@ -7,6 +7,8 @@ layout: page
 ## Group photo taken at the 7th IP workshop in Lund, Sweden, 2024
 ![Group photo taken at the 7th IP workshop in Lund](/assets/imgs/ip7-groupfoto.jpg)
 
+---
+
 ## Website list
 This is a list of websites for past International Induced Polarization Workshops. Some websites are no longer available. 
 - [7th International IP workshop, Lund, Sweden, 2024](https://internationalipworkshop.com/)
@@ -16,6 +18,8 @@ This is a list of websites for past International Induced Polarization Workshops
 - [3rd International IP workshop, Oléron, France, 2014](https://ip.geosciences.mines-paristech.fr/)
 - 2nd International IP workshop, Golden, USA
 - 1st International IP workshop, Bonn, Germany
+
+---
 
 ## Community links
 In the 7th workshop on Induced Polarization (IP) in Lund, May 28-30, 2024, the community had discussions on
