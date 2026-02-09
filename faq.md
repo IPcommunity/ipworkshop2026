@@ -4,14 +4,17 @@ subtitle: Frequently asked questions
 layout: page
 ---
 
+### When will the workshop start and end?
+The program is not finalized yet. We aim to start the workshop around 9:00-9:30 on Tuesday, May 26. The workshop will end around 17:00 on Thursday, May 28. 
+
+### What currency are prices listed in?
+All prices in the lodging reservation form and on the website are listed in Canadian dollars (CAD).
+
 ### What kind of weather should I expect?
 Daytime temperatures in late May are typically 15–20 °C (60–68 °F) and drop to 5–10 °C (40–50 °F) at night.
 
 ### Need a ride to or from Montreal?
-Use [this carpooling form (coming soon)](#) to find or offer a ride.
-
-### Looking for a roommate or housemate?
-Add your info and search others on [this roommate list (coming soon)](#).
+Use [this carpooling form](https://docs.google.com/spreadsheets/d/10zqtG1m-qCfEho7iScyOeJt__isk9W--V2AQNObMTcA/edit?usp=sharing) to find or offer a ride.
 
 ### Is childcare available?
 No. Childcare is not provided on site or nearby. However, families are welcome to enjoy the Auberge’s many activities: indoor pool, lake access, trails, and more.
