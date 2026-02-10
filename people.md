@@ -1,6 +1,6 @@
 ---
 title: 8th International Induced Polarization Workshop
-subtitle: People
+subtitle: Committees
 layout: page
 ---
 
@@ -12,8 +12,9 @@ layout: page
 
 ## Scientific Organizing Committee
 - Adrien Dimech, École de Technologie Supérieure, QC Canada
-- Hilary P. Emerson, Pacific Northwest National Laboratory, WA USA
-- Seogi Kang, University of Manitoba, MB Canada
 - Catherine Phaneuf, Abitibi Geophysics, QC Canada
 - Dan R. Glaser, University of New Hampshire, NH USA
+- Hilary P. Emerson, Pacific Northwest National Laboratory, WA USA
+- Randy Enkin, Paleomagnetism and Petrophysics Laboratory, Natural Resources Canada, BC Canada
+- Seogi Kang, University of Manitoba, MB Canada
 - Charles L. Bérubé, Polytechnique Montréal, QC Canada
