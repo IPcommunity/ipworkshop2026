@@ -54,7 +54,9 @@ All announcements are shared through the IP community mailing list and posted he
 ---
 
 ## Sponsors
-- TBA
+
+<img style="vertical-align:middle" src="/assets/imgs/Logo_Iris_Instruments_Couleur@3x-100.jpg" alt="IRIS" width="40%"/> <img style="vertical-align:middle" src="/assets/imgs/LOGO-AG-EN-Original.svg" alt="AG" width="50%"/>
+
 
 ---
 
