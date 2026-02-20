@@ -55,9 +55,10 @@ All announcements are shared through the IP community mailing list and posted he
 
 ## Sponsors
 
-<img style="vertical-align:middle" src="/assets/imgs/Logo_Iris_Instruments_Couleur@3x-100.jpg" alt="IRIS" width="40%"/> 
+<img style="vertical-align:middle" src="/assets/imgs/Logo_Iris_Instruments_Couleur@3x-100.jpg" alt="IRIS" width="45%"/> 
 <img style="vertical-align:middle" src="/assets/imgs/LOGO-AG-EN-Original.svg" alt="AG" width="50%"/>
-<img style="vertical-align:middle" src="/assets/imgs/Polytechnique_signature-RGB-droite_ENG.png" alt="Polymtl" width="50%"/>
+<img style="vertical-align:middle" src="/assets/imgs/dias_logo_cmyk_highres.jpg" alt="DIAS" width="50%"/>
+<img style="float:right" src="/assets/imgs/Polytechnique_signature-RGB-droite_ENG.png" alt="Polymtl" width="45%"/>
 
 
 ---
