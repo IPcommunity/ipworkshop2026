@@ -4,6 +4,11 @@ subtitle: Frequently asked questions
 layout: page
 ---
 
+### Will there be a conference registration fee? 
+Since the early stages of planning, our objective has been to keep the conference registration fees as low as possible, ideally at zero. Thanks to the support of our sponsors, we can now confirm that registration will not exceed 50 CAD (approximately 30 EUR) for any participant. We continue to seek additional sponsorship and remain committed to reducing the fee further, with the goal of eliminating it entirely.
+
+Participants are responsible for paying their lodging and meals directly to the Auberge, as well as covering any travel costs.
+
 ### When will the workshop start and end?
 The program is not finalized yet. We aim to start the workshop around 9:00-9:30 on Tuesday, May 26. The workshop will end around 17:00 on Thursday, May 28. 
 

@@ -19,8 +19,6 @@ layout: page
 - Conference registration and abstract submission use the **same Google Form**.  
 - Until **February 28, 2026**: participants may register and optionally submit an abstract.  
 - After **February 28, 2026**: the Google Form remains open for registration only; the abstract-upload section will be locked.  
-- Registration via the Google Form and payment via Eventbrite remains open until **April 30, 2026**.  
-  We are aiming to keep conference fees at a minimum.
 
 ---
 

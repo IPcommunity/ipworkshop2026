@@ -55,6 +55,8 @@ All announcements are shared through the IP community mailing list and posted he
 
 ## Sponsors
 
+Since the early stages of planning, our objective has been to keep the conference registration fees as low as possible, ideally at zero. Thanks to the support of our sponsors, we can now confirm that registration will not exceed 50 CAD (approximately 30 EUR) for any participant. We continue to seek additional sponsorship and remain committed to reducing the fee further, with the goal of eliminating it entirely. 
+
 <img style="vertical-align:middle" src="/assets/imgs/Logo_Iris_Instruments_Couleur@3x-100.jpg" alt="IRIS" width="45%"/> 
 <img style="vertical-align:middle" src="/assets/imgs/LOGO-AG-EN-Original.svg" alt="AG" width="50%"/>
 <img style="vertical-align:middle" src="/assets/imgs/dias_logo_cmyk_highres.jpg" alt="DIAS" width="50%"/>
