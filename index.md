@@ -57,11 +57,55 @@ All announcements are shared through the IP community mailing list and posted he
 
 Since the early stages of planning, our objective has been to keep the conference registration fees as low as possible, ideally at zero. Thanks to the support of our sponsors, we can now confirm that registration will not exceed 50 CAD (approximately 30 EUR) for any participant. We continue to seek additional sponsorship and remain committed to reducing the fee further, with the goal of eliminating it entirely. 
 
-<img style="vertical-align:middle" src="/assets/imgs/Logo_Iris_Instruments_Couleur@3x-100.jpg" alt="IRIS" width="45%"/> 
-<img style="vertical-align:middle" src="/assets/imgs/LOGO-AG-EN-Original.svg" alt="AG" width="50%"/>
-<img style="vertical-align:middle" src="/assets/imgs/dias_logo_cmyk_highres.jpg" alt="DIAS" width="50%"/>
-<img style="float:right" src="/assets/imgs/Polytechnique_signature-RGB-droite_ENG.png" alt="Polymtl" width="45%"/>
+<style>
+.sponsor-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 50px;
+  margin: 0px 0;
+}
 
+.logo-horizontal {
+  max-height: 100px;
+  width: auto;
+  object-fit: contain;
+}
+
+.logo-vertical {
+  max-height: 200px;  /* ~2 × horizontal */
+  width: auto;
+  object-fit: contain;
+}
+
+.logo-poly {
+  margin-left: auto;
+  max-height: 130px;
+}
+</style>
+
+<div class="sponsor-grid">
+  <img class="logo-vertical"
+       src="/assets/imgs/Logo_Iris_Instruments_Couleur@3x-100.jpg"
+       alt="IRIS Instruments">
+
+  <img class="logo-horizontal"
+       src="/assets/imgs/LOGO-AG-EN-Original.svg"
+       alt="Abitibi Geophysics">
+
+  <img class="logo-horizontal"
+       src="/assets/imgs/dias_logo_cmyk_highres.jpg"
+       alt="DIAS">
+       
+  <img class="logo-vertical"
+       src="/assets/imgs/Logo_GDD high resolution_avec_signature_new.png"
+       alt="GDD">
+
+
+  <img class="logo-poly"
+       src="/assets/imgs/Polytechnique_signature-RGB-droite_ENG.png"
+       alt="Polytechnique Montréal">
+</div>
 
 ---
 
