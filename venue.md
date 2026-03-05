@@ -8,15 +8,20 @@ layout: page
 ## Auberge du Lac-à-l’Eau-Claire
 The 8th International Workshop on Induced Polarization will be held on 26–28 May 2026 at the Auberge du Lac-à-l’Eau-Claire in St-Alexis-des-Monts, Québec, Canada.
 
+The Auberge offers an all-inclusive package that includes both lodging and meals. There are little to no alternative accommodation or dining options in the vicinity. 
+
 ---
 
 ## Transportation
 
-The Auberge is located about 2 hours by car from both Montréal and Québec. There is no public transportation available. Participants will need to rent a car. We will provide tools to faciliate car pooling for those interested. 
+The Auberge is located about 2 hours by car from both Montréal and Québec.  
+
+There is no public transportation available. We recommend that participants rent vehicles and share rides.  
+
+Please use [this carpooling form](https://docs.google.com/spreadsheets/d/10zqtG1m-qCfEho7iScyOeJt__isk9W--V2AQNObMTcA/edit?usp=sharing) to find or offer a ride.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QDEhNZqMnQjrc2YudYLsgLLUmw-_XQM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-The Auberge offers an all-inclusive package that includes both lodging and meals. There are little to no alternative accommodation or dining options in the vicinity. 
 
 ---
 
