@@ -11,22 +11,21 @@ show_sidebar: true
 
 {% include notification.html 
 status="is-info"
-message="## Call for abstracts and registration
+message="
+## Workshop registration
 "  %}
 
-Please register for the conference and submit your abstract by filling <a href='https://forms.gle/494dQw6RiUn1jTmZ9' target='_blank' rel='nofollow noopener noreferrer'>this Google Form</a>.  
-The submission deadline is **February 28, 2026**.
+Please register for the workshop by filling <a href='https://forms.gle/494dQw6RiUn1jTmZ9' target='_blank' rel='nofollow noopener noreferrer'>this Google Form</a>.  
 
-Authors may select their preferred presentation format (oral or poster) and indicate if the presenting author is a student when completing the submission form.
+From the start, one of our objectives was to keep the workshop affordable and accessible, particularly for students. Thanks to the support of our [sponsors](#sponsors) and Polytechnique Montréal, **anyone may register and attend the workshop at no cost**. 
 
-Please use this [abstract template](assets/docs/IPW2026_abstract_template.docx) and save it as a PDF before submitting it in the registration form.
-
+Participants remain responsible for their own travel and lodging (which includes meals) at the Auberge.
 
 ---
 {% include notification.html
 status="is-success"
 message="
-## Lodging reservations now open"
+## Lodging reservations"
 %}
 
 All participants must reserve their lodging directly with the **Auberge du Lac-à-l’Eau-Claire** by submitting the official reservation form by email. 
@@ -45,11 +44,28 @@ The forms can be downloaded below:
 - [French version](assets/docs/BookingFormFr.pdf)
 
 ---
-
+{% include notification.html 
+status="is-warning"
+message="
 ## Staying informed
+"  %}
 
-All announcements are shared through the IP community mailing list and posted here on this website. To register to the mailing list, please follow this [tutorial](https://drive.google.com/file/d/1w7qqsUiQt2BImLPsZbw37jOZKvumgjWT/view){:target="_blank" rel="noopener"}.
+All announcements are shared through the IP community mailing list and posted [here](/blog/) on this website. To register to the mailing list, please follow this [tutorial](https://drive.google.com/file/d/1w7qqsUiQt2BImLPsZbw37jOZKvumgjWT/view){:target="_blank" rel="noopener"}.
 
+---
+{% include notification.html 
+status="is-danger"
+message="
+## Call for Abstracts
+"  %}
+
+The Call for Abstracts closed on **February 28, 2026**. Acceptance decisions will be communicated by March 13. 
+
+If you or members of your team were unable to submit an abstract earlier but would still like to contribute, please contact me directly at <a href="mailto:ipworkshop2026@gmail.com">ipworkshop2026@gmail.com</a> or <a href="mailto:charles.berube@polymtl.ca">charles.berube@polymtl.ca</a>. We can accept late submissions until March 11, but no later.
+
+Please use this [abstract template](assets/docs/IPW2026_abstract_template.docx) and save it as a PDF before submitting it in the registration form. 
+
+Authors may select their preferred presentation format (oral or poster) and indicate if the presenting author is a student when completing the submission form.
 
 ---
 
