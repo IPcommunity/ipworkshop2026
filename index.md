@@ -47,10 +47,17 @@ The forms can be downloaded below:
 {% include notification.html 
 status="is-warning"
 message="
-## Staying informed
+## Information and tools
 "  %}
 
+### Mailing list
 All announcements are shared through the IP community mailing list and posted [here](/blog/) on this website. To register to the mailing list, please follow this [tutorial](https://drive.google.com/file/d/1w7qqsUiQt2BImLPsZbw37jOZKvumgjWT/view){:target="_blank" rel="noopener"}.
+
+### Need a ride to or from Montreal?
+Use [this carpooling form](https://docs.google.com/spreadsheets/d/10zqtG1m-qCfEho7iScyOeJt__isk9W--V2AQNObMTcA/edit?usp=sharing) to find or offer a ride.
+
+### Need a roommate to reduce lodging costs at the Auberge?
+Use [this roommate finder form](https://docs.google.com/spreadsheets/d/1qBvop_buJw8YIZEz4jAdhyXs28754CotTHmTdZLmVwY/edit?usp=sharing) to find a roommate.
 
 ---
 {% include notification.html 

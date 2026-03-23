@@ -5,7 +5,7 @@ layout: page
 ---
 
 ### Will there be a conference registration fee? 
-Since the early stages of planning, our objective has been to keep the conference registration fees as low as possible, ideally at zero. Thanks to the support of our sponsors, we can now confirm that registration will not exceed 50 CAD (approximately 30 EUR) for any participant. We continue to seek additional sponsorship and remain committed to reducing the fee further, with the goal of eliminating it entirely.
+No. Since the early stages of planning, our objective has been to keep the conference registration fees as low as possible, ideally at zero. Thanks to the support of our sponsors, we can now confirm that registration is free.
 
 Participants are responsible for paying their lodging and meals directly to the Auberge, as well as covering any travel costs.
 
@@ -20,6 +20,9 @@ Daytime temperatures in late May are typically 15–20 °C (60–68 °F) and dro
 
 ### Need a ride to or from Montreal?
 Use [this carpooling form](https://docs.google.com/spreadsheets/d/10zqtG1m-qCfEho7iScyOeJt__isk9W--V2AQNObMTcA/edit?usp=sharing) to find or offer a ride.
+
+### Need a roommate to reduce lodging costs?
+Use [this roommate finder form](https://docs.google.com/spreadsheets/d/1qBvop_buJw8YIZEz4jAdhyXs28754CotTHmTdZLmVwY/edit?usp=sharing) to find a roommate.
 
 ### Is childcare available?
 No. Childcare is not provided on site or nearby. However, families are welcome to enjoy the Auberge’s many activities: indoor pool, lake access, trails, and more.
