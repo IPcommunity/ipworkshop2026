@@ -90,20 +90,20 @@ Since the early stages of planning, our objective has been to keep the conferenc
 }
 
 .logo-horizontal {
-  max-height: 100px;
+  max-height: 90px;
   width: auto;
   object-fit: contain;
 }
 
 .logo-vertical {
-  max-height: 200px;  /* ~2 × horizontal */
+  max-height: 155px;  /* ~2 × horizontal */
   width: auto;
   object-fit: contain;
 }
 
 .logo-poly {
   margin-left: auto;
-  max-height: 130px;
+  max-height: 100px;
 }
 </style>
 
@@ -124,9 +124,12 @@ Since the early stages of planning, our objective has been to keep the conferenc
        src="/assets/imgs/Logo_GDD high resolution_avec_signature_new.png"
        alt="GDD">
 
+  <img class="logo-horizontal"
+       src="/assets/imgs/TerraplusLogo.jpg"
+       alt="GDD">
 
-  <img class="logo-poly"
-       src="/assets/imgs/Polytechnique_signature-RGB-droite_ENG.png"
+  <img class="logo-horizontal"
+       src="/assets/imgs/logo-exception-noir2x.png"
        alt="Polytechnique Montréal">
 </div>
 
