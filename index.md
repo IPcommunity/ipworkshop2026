@@ -7,19 +7,21 @@ show_sidebar: true
 ---
 
  
-
-
 {% include notification.html 
 status="is-info"
 message="
-## Workshop registration
+## Preliminary program + Workshop registration 
 "  %}
+
+The preliminary program is available to [download here](assets/docs/IIPW2026_Preliminary_Program.pdf).
 
 Please register for the workshop by filling <a href='https://forms.gle/494dQw6RiUn1jTmZ9' target='_blank' rel='nofollow noopener noreferrer'>this Google Form</a>.  
 
 From the start, one of our objectives was to keep the workshop affordable and accessible, particularly for students. Thanks to the support of our [sponsors](#sponsors) and Polytechnique Montréal, **anyone may register and attend the workshop at no cost**. 
 
 Participants remain responsible for their own travel and lodging (which includes meals) at the Auberge.
+
+
 
 ---
 {% include notification.html
