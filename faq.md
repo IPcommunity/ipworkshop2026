@@ -4,13 +4,21 @@ subtitle: Frequently asked questions
 layout: page
 ---
 
-### Will there be a conference registration fee? 
+### Is there a conference registration fee? 
 No. Since the early stages of planning, our objective has been to keep the conference registration fees as low as possible, ideally at zero. Thanks to the support of our sponsors, we can now confirm that registration is free.
 
 Participants are responsible for paying their lodging and meals directly to the Auberge, as well as covering any travel costs.
 
 ### When will the workshop start and end?
-The program is not finalized yet. We aim to start the workshop around 9:00-9:30 on Tuesday, May 26. The workshop will end around 17:00 on Thursday, May 28. 
+The program preliminary program is posted on the home page.
+
+### How much time is allowed for oral presentations?
+Talks are maximum 20 minutes, including time for questions. Please leave time for questions/discussion. We kindly ask that you provide your slides on the morning of your presentation to facilitate transitions between talks.  
+
+### What do the poster boards look like?
+The poster room will have trifold poster boards 48” (width) x 36” (height) mounted on long tables to display posters.  The dimensions of the central panel of the trifold board are 24” (width) x 36” (height).  The maximum allowable poster size is capped at 47” (width) x 35” (height), so a landscape A0 poster will fit. You may print one large poster of the maximum allowable poster size or have a combination of sizes if you're feeling creative. We will provide pins to attach your posters to the boards. 
+
+<img src="https://www.lepapetier.ca/img/product/BF0457_1-Z.jpg" alt="drawing" width="200"/>
 
 ### What currency are prices listed in?
 All prices in the lodging reservation form and on the website are listed in Canadian dollars (CAD).
@@ -25,7 +33,7 @@ Use [this carpooling form](https://docs.google.com/spreadsheets/d/10zqtG1m-qCfEh
 Use [this roommate finder form](https://docs.google.com/spreadsheets/d/1qBvop_buJw8YIZEz4jAdhyXs28754CotTHmTdZLmVwY/edit?usp=sharing) to find a roommate.
 
 ### Is childcare available?
-No. Childcare is not provided on site or nearby. However, families are welcome to enjoy the Auberge’s many activities: indoor pool, lake access, trails, and more.
+No. Childcare is not provided on site or nearby. However, accompanying families are welcome to enjoy the Auberge’s many activities: indoor pool, lake access, trails, and more.
 
 ### How do I book my stay and meals?
 Participants must fill out a form indicating their arrival/departure dates, lodging preferences, and roommate/housemate details.
