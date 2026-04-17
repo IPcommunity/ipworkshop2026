@@ -1,6 +1,9 @@
 - name: Announcements
   link: /blog/
 
+- name: Program
+  link: /program/
+
 - name: Workshop venue
   link: /venue/
 
