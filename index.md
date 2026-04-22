@@ -34,7 +34,7 @@ Individual rooms, shared rooms, and condos with multiple rooms are available.
 
 Prices are in **Canadian dollar** and include two nights accommodation, two breakfasts, three lunches, two dinners, service fees, and access to the full site.
 
-Participants may optionally add an extra night on **May&nbsp;25** or **May&nbsp;28, 2026**. It is also possible to travel from Montréal to the Auberge on the morning of **May&nbsp;26** before the workshop starts.
+Participants may optionally add an extra night on **May&nbsp;25** or **May&nbsp;28, 2026**.
 
 The reservation form must be received by **April&nbsp;6,&nbsp;2026**. 
 Completed forms must be sent to the email address indicated in the form.
