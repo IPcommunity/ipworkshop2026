@@ -5,7 +5,7 @@ layout: page
 ---
 
 
-## Scientific Program
+## Book of Abstracts
 The program is available to download here:  
 [IIPW2026_Scientific_Program.pdf](https://github.com/IPcommunity/IPW2026-book-of-abstracts/releases/latest/download/IIPW2026_Scientific_Program.pdf)
 
